@@ -3,7 +3,7 @@
 
 ## Start of the game
 - Two players on each side
-- The game starts with a match of the serve
+- Before the game starts, there's a match of the serve
 - After that, the game starts
 
 ## Play for serve
