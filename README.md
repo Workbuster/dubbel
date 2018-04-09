@@ -16,8 +16,8 @@
 - You may not "kruta", if it is not executed well
 
 ### Serves
-- Every person will serve 3 balls
-- After 3 balls, the other team gets to serve. The serve is rotated in a zig-zag motion.
+- Every person will serve 3 times
+- After 3 serves, the other team gets to serve. The serve is rotated in a zig-zag motion.
 - The ball needs to be served diagonally and within the white lines
 - Serves that touches both sides but otherwise fails, gets 2 retries
 
